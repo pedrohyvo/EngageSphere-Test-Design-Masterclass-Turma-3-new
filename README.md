@@ -29,7 +29,7 @@ Read the following [doc](./docs/TestCases.md) to get a list of test cases.
 
 To run cypress tests, you will need to run the following command:
 ```
-Interactive: npm run cy:open
+Interactive: `npm run cy:open`
 Headless: `npm test or npm t`
 ```
 ___
